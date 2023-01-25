@@ -5,23 +5,24 @@ TagManager:
   serializedVersion: 2
   tags:
   - Button
-  - Slice
-  - Knife
+  - Toy
+  - safe
+  - danger
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - player
   - Water
   - UI
-  - 
-  - 
-  - Slice1
-  - Slice2
-  - Slice3
-  - Slice4
-  - 
-  - 
+  - Food
+  - House
+  - Furniture
+  - near
+  - far
+  - safe
+  - danger
+  - toy
   - 
   - 
   - 
